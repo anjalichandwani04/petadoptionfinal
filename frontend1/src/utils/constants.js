@@ -1,0 +1,1 @@
+export const BACKEND_URI = "mongodb+srv://anjalichandwani04:chandwani12@cluster0.y8islsn.mongodb.net/api/categories";
